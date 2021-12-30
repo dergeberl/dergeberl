@@ -1,11 +1,19 @@
-## Hi there!
+## I`m Maximilian Geberl :wave:
 
-## My Projects
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dergeberl)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dergeberl)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-geberl/)
+[![](https://img.shields.io/badge/Xing-0698A0?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Maximilian_Geberl)
+
+
+
+## :computer: My Projects
 
 [kubeteach](github.com/dergeberl/kubeteach) - Learn kubernetes in kuberenetes
 
 
-## 🎓 Certificates & Trainings
+
+## :mortar_board: Certificates & Trainings
 
 <!--START_SECTION:badges-->
 
@@ -15,3 +23,8 @@
 [![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/929c2192-08fb-427d-8783-e4f578321eb3 "LFD459: Kubernetes for App Developers")
 [![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/55f47a64-4cf2-4889-81a2-b87d128649fb "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
+
+## Stats
+
+
+[![dergeberl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dergeberl)](https://github.com/anuraghazra/github-readme-stats)
