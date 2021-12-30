@@ -1,0 +1,21 @@
+name: Update credly badges
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@2
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "update credly badges"
+          CREDLY_USER: maximilian-geberl
+          CREDLY_SORT: POPULAR 
