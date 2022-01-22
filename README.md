@@ -9,7 +9,7 @@
 
 ### :computer: My Projects
 
-[kubeteach](github.com/dergeberl/kubeteach) - Learn kubernetes in kuberenetes
+[kubeteach](https://github.com/dergeberl/kubeteach) - Learn kubernetes in kuberenetes
 
 
 
