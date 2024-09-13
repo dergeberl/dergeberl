@@ -20,9 +20,9 @@
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/225d234f-0c4d-4a87-82d1-12a021fd4df1 "CKA: Certified Kubernetes Administrator")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/b2d7a1ef-3967-418a-b9e9-65e2adf80825 "CKAD: Certified Kubernetes Application Developer")
 [![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/e513b194-e787-40a0-9f54-5baa1d150245 "CKS: Certified Kubernetes Security Specialist")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/6b2592c5-6cad-4d2f-ae78-17b89b0462bc/image.png)](http://www.credly.com/badges/cbc881fb-59bb-47e1-bca7-1111fb3ff7f7 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/cec84819-7069-48fc-b38b-91edabcf2750/image.png)](http://www.credly.com/badges/929c2192-08fb-427d-8783-e4f578321eb3 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/67ffd037-c7e6-40cc-996c-0cde3672c5c5/image.png)](http://www.credly.com/badges/55f47a64-4cf2-4889-81a2-b87d128649fb "LFS460: Kubernetes Security Fundamentals")
+[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/20936872-ca23-44da-a4bc-db39db3468b6/blob)](http://www.credly.com/badges/cbc881fb-59bb-47e1-bca7-1111fb3ff7f7 "LFS458: Kubernetes Administration")
+[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob)](http://www.credly.com/badges/929c2192-08fb-427d-8783-e4f578321eb3 "LFD459: Kubernetes for App Developers")
+[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob)](http://www.credly.com/badges/55f47a64-4cf2-4889-81a2-b87d128649fb "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ### Stats
